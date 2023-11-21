@@ -1,7 +1,7 @@
 export default [
   {
   "_id": "65510e70870c092d5441bc94",
-  "name": "Rocket Propulsion",
+  "name": "Rocket Propulsion1",
   "number": "RS4550",
   "startDate": "2023-01-10",
   "endDate": "2023-05-15",
