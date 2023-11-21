@@ -1,4 +1,4 @@
-[
+export default [
   {
   "_id": "65510e70870c092d5441bc94",
   "name": "Rocket Propulsion",

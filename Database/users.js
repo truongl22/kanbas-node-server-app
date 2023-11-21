@@ -1,4 +1,4 @@
-[
+export default [
   {
     "_id": "121",
     "username": "iron_man",

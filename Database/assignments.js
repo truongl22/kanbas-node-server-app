@@ -1,4 +1,4 @@
-[
+export default [
   {
     "_id": "6557fcb7a11aca237708374b",
     "title": "Propulsion Assignment",
